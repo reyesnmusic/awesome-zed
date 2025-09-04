@@ -898,12 +898,12 @@
 
     // Default: false
     "play_sound_when_agent_done": false,
-    /// Whether to have edit cards in the agent panel expanded, showing a preview of the full diff.
-    ///
-    /// Default: true
+    // Whether to have edit cards in the agent panel expanded, showing a preview of the full diff.
+    //
+    // Default: true
     "expand_edit_card": true,
-    /// Whether to have terminal cards in the agent panel expanded, showing the whole command output.
-    ///
+    // Whether to have terminal cards in the agent panel expanded, showing the whole command output.
+    //
     // Default: true
     "expand_terminal_card": true
   },
