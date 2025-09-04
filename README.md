@@ -50,6 +50,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 - [Sol / CORE](https://docs.heysol.ai/providers/zed) - An AI integration that provides a persistent, cross-application memory graph to your Zed assistant via MCP.
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers/) - A curated list of servers that use the Model Context Protocol (MCP) to give AI models access to external tools.
 
+
 ## Tools
 
 - [Zed Extension CLI](https://github.com/zed-industries/extensions) - The official command-line tool for creating and managing Zed extensions.
