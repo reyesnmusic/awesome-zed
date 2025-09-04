@@ -12,6 +12,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 - [Extensions](#extensions)
 - [Articles & Tutorials](#articles--tutorials)
 - [Videos](#videos)
+- [AI Integrations](#ai-integrations)
 - [Tools](#tools)
 - [Contributing](#contributing)
 
@@ -44,6 +45,10 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 - [[Workshop] MCP and Zed IDE | Guide on how to build your own MCP Server!](https://youtu.be/VJr90F_dlY4) - A workshop on building an MCP server to extend Zed's functionality with custom commands.
 - [Starting Zed Blazing fast code editor IDE?](https://youtu.be/6ztTDhH14Hw) - A simple introduction to getting started with the Zed editor and its basic functionality.
 
+## AI Integrations
+
+- [Sol / CORE](https://docs.heysol.ai/providers/zed) - An AI integration that provides a persistent, cross-application memory graph to your Zed assistant via MCP.
+
 ## Tools
 
 - [Zed Extension CLI](https://github.com/zed-industries/extensions) - The official command-line tool for creating and managing Zed extensions.
@@ -59,5 +64,8 @@ Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [giba0](https://github.com/giba0) has waived all copyright and related or neighboring rights to this work.
+0/)
 
 To the extent possible under law, [giba0](https://github.com/giba0) has waived all copyright and related or neighboring rights to this work.
