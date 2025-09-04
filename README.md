@@ -12,6 +12,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 - [Extensions](#extensions)
 - [Articles & Tutorials](#articles--tutorials)
 - [Videos](#videos)
+- [AI Integrations](#ai-integrations)
 - [Tools](#tools)
 - [Contributing](#contributing)
 
@@ -59,5 +60,8 @@ Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [giba0](https://github.com/giba0) has waived all copyright and related or neighboring rights to this work.
+0/)
 
 To the extent possible under law, [giba0](https://github.com/giba0) has waived all copyright and related or neighboring rights to this work.
