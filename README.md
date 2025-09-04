@@ -34,7 +34,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 ## Articles & Tutorials
 
 - [Official Zed Documentation](https://zed.dev/docs) - The best place to start for installation, configuration, and features.
-- [A Beginner's Guide to the Zed Code Editor](https://daily.dev/blog/a-beginners-guide-to-the-zed-code-editor) - A gentle introduction to Zed's features and basic usage.
+- [Zed Documentation - Getting Started](https://zed.dev/docs/getting-started) - The official guide to getting started with Zed.
 - [Zed is Now Open Source](https://zed.dev/blog/zed-is-now-open-source) - The official blog post announcing the move to open source and what it means for the community.
 
 ## Videos
