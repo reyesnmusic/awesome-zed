@@ -36,6 +36,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 - [Official Zed Documentation](https://zed.dev/docs) - The best place to start for installation, configuration, and features.
 - [Zed Documentation - Getting Started](https://zed.dev/docs/getting-started) - The official guide to getting started with Zed.
 - [Zed is Now Open Source](https://zed.dev/blog/zed-is-now-open-source) - The official blog post announcing the move to open source and what it means for the community.
+- [Swift + Zed = ❤️](https://tgomareli.medium.com/swift-zed-%EF%B8%8F-6b08de865425) - A guide for setting up a Swift development workflow in the Zed editor.
 
 ## Videos
 
