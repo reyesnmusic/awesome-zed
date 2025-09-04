@@ -1,0 +1,78 @@
+// Zed Editor - Default Settings Example
+//
+// This file contains a comprehensive list of default settings for the Zed editor.
+// It is intended as a reference and a starting point for your own configuration.
+// For the most up-to-date defaults, run "zed: open default settings" from the command palette.
+//
+// For more details, visit the official documentation: https://zed.dev/docs/configuring-zed
+//
+// @zed-settings @zed-configuration @zed-defaults
+
+{
+  "theme": "Andromeda",
+  "base_keymap": "VSCode",
+  "auto_update": true,
+  "buffer_font_family": "Zed Mono",
+  "buffer_font_size": 15,
+  "buffer_font_features": {
+    "calt": true,
+    "liga": true,
+    "ss01": true,
+    "ss02": true,
+    "ss03": true,
+    "ss04": true,
+    "ss05": true,
+    "ss06": true
+  },
+  "confirm_quit": false,
+  "cursor_blink": true,
+  "cursor_shape": "bar",
+  "autosave": "off",
+  "format_on_save": "on",
+  "formatter": "auto",
+  "hard_tabs": false,
+  "tab_size": 4,
+  "soft_wrap": "none",
+  "preferred_line_length": 80,
+  "remove_trailing_whitespace_on_save": true,
+  "ensure_final_newline_on_save": true,
+  "show_whitespaces": "selection",
+  "telemetry": {
+    "diagnostics": true,
+    "metrics": true
+  },
+  "ui_font_family": "Zed Sans",
+  "ui_font_size": 14,
+  "project_panel": {
+    "dock": "left",
+    "default_width": 240,
+    "entry_spacing": 8,
+    "indent_size": 12,
+    "git_status": true
+  },
+  "terminal": {
+    "dock": "bottom",
+    "shell": "system",
+    "font_family": null,
+    "font_size": null,
+    "line_height": { "custom": 1.5 },
+    "copy_on_select": false
+  },
+  "languages": {
+    "Python": {
+      "tab_size": 4,
+      "format_on_save": "on",
+      "formatter": "language_server"
+    },
+    "JavaScript": {
+      "tab_size": 2,
+      "format_on_save": "on",
+      "formatter": "language_server"
+    },
+    "TypeScript": {
+      "tab_size": 2,
+      "format_on_save": "on",
+      "formatter": "language_server"
+    }
+  }
+}
