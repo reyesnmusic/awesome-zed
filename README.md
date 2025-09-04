@@ -39,9 +39,9 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 
 ## Videos
 
-- [Zed - A Visual Studio Code Killer?](https://www.youtube.com/watch?v=z6s_mB9v8c0) - A review from GameFromScratch covering Zed's performance and features.
-- [There's a fast new code editor in town](https://www.youtube.com/watch?v=p34s7-s6gZ8) - A first look at Zed by Fireship.
-- [I'm trying Zed, the next gen code editor](https://www.youtube.com/watch?v=3bRJprl6494) - A video by Indently documenting a first-hour experience with Zed.
+- [Zed + MCP Servers](https://youtu.be/fuFrYyXgSEQ) - Demonstrates how to add and configure Model Context Protocol (MCP) servers within the Zed IDE.
+- [[Workshop] MCP and Zed IDE | Guide on how to build your own MCP Server!](https://youtu.be/VJr90F_dlY4) - A workshop on building an MCP server to extend Zed's functionality with custom commands.
+- [Starting Zed Blazing fast code editor IDE?](https://youtu.be/6ztTDhH14Hw) - A simple introduction to getting started with the Zed editor and its basic functionality.
 
 ## Tools
 
