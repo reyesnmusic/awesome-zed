@@ -45,6 +45,10 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 - [[Workshop] MCP and Zed IDE | Guide on how to build your own MCP Server!](https://youtu.be/VJr90F_dlY4) - A workshop on building an MCP server to extend Zed's functionality with custom commands.
 - [Starting Zed Blazing fast code editor IDE?](https://youtu.be/6ztTDhH14Hw) - A simple introduction to getting started with the Zed editor and its basic functionality.
 
+## AI Integrations
+
+- [Sol / CORE](https://docs.heysol.ai/providers/zed) - An AI integration that provides a persistent, cross-application memory graph to your Zed assistant via MCP.
+
 ## Tools
 
 - [Zed Extension CLI](https://github.com/zed-industries/extensions) - The official command-line tool for creating and managing Zed extensions.
