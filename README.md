@@ -55,6 +55,10 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 - [Zed Extension CLI](https://github.com/zed-industries/extensions) - The official command-line tool for creating and managing Zed extensions.
 - [GitHub Actions Extension](https://zed.dev/extensions/github-actions) - An extension to get LSP support for GitHub Actions workflow files.
 
+## Configuration Examples
+
+- [Default `settings.json`](./examples/default-settings.json) - A comprehensive file with all default settings to use as a reference.
+
 
 ---
 
